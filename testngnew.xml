@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+
+
+
+  <test  name="startpage">
+    <classes>
+      <class name="Framework.SiteinvokeTest"/>
+      </classes>
+      </test>
+      <test  name="Validation of Text">
+    <classes>
+      <class name="Framework.ValidateTextonLandPageTest"/>
+        </classes>
+      </test>
+        <test  name="Validation of tabs">
+    <classes>
+      
+      <class name="Framework.ValidateTabsTest"/>
+        </classes>
+      </test>
+      
+    
+  
+</suite> <!-- Suite -->
