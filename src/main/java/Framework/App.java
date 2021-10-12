@@ -14,4 +14,8 @@ public static void GM()
 {
 	System.out.println( "Monday" );
 }
+public static void GN()
+{
+	System.out.println("tuesday");
+}
 }
