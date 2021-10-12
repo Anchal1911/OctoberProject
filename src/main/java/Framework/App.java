@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Goodmorning" );
     }
-}
+    public static void top()
+    {
+    	System.out.println("Monday");
+    	
+    }    }
+
