@@ -22,4 +22,8 @@ public static void b1()
 {
 	System.out.println("Wednesday");
 }
+public static void b2()
+{
+	System.out.println("thursday");
+}
 }
