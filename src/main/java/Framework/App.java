@@ -18,4 +18,8 @@ public static void GN()
 {
 	System.out.println("tuesday");
 }
+public static void b1()
+{
+	System.out.println("Wednesday");
+}
 }
